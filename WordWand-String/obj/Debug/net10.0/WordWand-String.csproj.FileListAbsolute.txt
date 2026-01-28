@@ -1,0 +1,15 @@
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/bin/Debug/net10.0/WordWand-String
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/bin/Debug/net10.0/WordWand-String.deps.json
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/bin/Debug/net10.0/WordWand-String.runtimeconfig.json
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/bin/Debug/net10.0/WordWand-String.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/bin/Debug/net10.0/WordWand-String.pdb
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/obj/Debug/net10.0/WordWand-String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/obj/Debug/net10.0/WordWand-String.AssemblyInfoInputs.cache
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/obj/Debug/net10.0/WordWand-String.AssemblyInfo.cs
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/obj/Debug/net10.0/WordWand-String.csproj.CoreCompileInputs.cache
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/obj/Debug/net10.0/WordWand-String.sourcelink.json
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/obj/Debug/net10.0/WordWand-String.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/obj/Debug/net10.0/refint/WordWand-String.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/obj/Debug/net10.0/WordWand-String.pdb
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/obj/Debug/net10.0/WordWand-String.genruntimeconfig.cache
+/Users/neil/Desktop/TopBrains_Questions/C#/WordWand-String/obj/Debug/net10.0/ref/WordWand-String.dll

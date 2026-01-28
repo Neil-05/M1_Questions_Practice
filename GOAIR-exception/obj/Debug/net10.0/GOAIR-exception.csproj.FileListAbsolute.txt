@@ -1,0 +1,15 @@
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/bin/Debug/net10.0/GOAIR-exception
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/bin/Debug/net10.0/GOAIR-exception.deps.json
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/bin/Debug/net10.0/GOAIR-exception.runtimeconfig.json
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/bin/Debug/net10.0/GOAIR-exception.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/bin/Debug/net10.0/GOAIR-exception.pdb
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/obj/Debug/net10.0/GOAIR-exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/obj/Debug/net10.0/GOAIR-exception.AssemblyInfoInputs.cache
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/obj/Debug/net10.0/GOAIR-exception.AssemblyInfo.cs
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/obj/Debug/net10.0/GOAIR-exception.csproj.CoreCompileInputs.cache
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/obj/Debug/net10.0/GOAIR-exception.sourcelink.json
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/obj/Debug/net10.0/GOAIR-exception.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/obj/Debug/net10.0/refint/GOAIR-exception.dll
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/obj/Debug/net10.0/GOAIR-exception.pdb
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/obj/Debug/net10.0/GOAIR-exception.genruntimeconfig.cache
+/Users/neil/Desktop/TopBrains_Questions/C#/GOAIR-exception/obj/Debug/net10.0/ref/GOAIR-exception.dll
