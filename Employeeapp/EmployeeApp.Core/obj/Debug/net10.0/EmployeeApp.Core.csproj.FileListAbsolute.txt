@@ -1,0 +1,12 @@
+/Users/neil/Desktop/M1practice/Employeeapp/EmployeeApp.Core/bin/Debug/net10.0/EmployeeApp.Core.deps.json
+/Users/neil/Desktop/M1practice/Employeeapp/EmployeeApp.Core/bin/Debug/net10.0/EmployeeApp.Core.dll
+/Users/neil/Desktop/M1practice/Employeeapp/EmployeeApp.Core/bin/Debug/net10.0/EmployeeApp.Core.pdb
+/Users/neil/Desktop/M1practice/Employeeapp/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neil/Desktop/M1practice/Employeeapp/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.AssemblyInfoInputs.cache
+/Users/neil/Desktop/M1practice/Employeeapp/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.AssemblyInfo.cs
+/Users/neil/Desktop/M1practice/Employeeapp/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.csproj.CoreCompileInputs.cache
+/Users/neil/Desktop/M1practice/Employeeapp/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.sourcelink.json
+/Users/neil/Desktop/M1practice/Employeeapp/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.dll
+/Users/neil/Desktop/M1practice/Employeeapp/EmployeeApp.Core/obj/Debug/net10.0/refint/EmployeeApp.Core.dll
+/Users/neil/Desktop/M1practice/Employeeapp/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.pdb
+/Users/neil/Desktop/M1practice/Employeeapp/EmployeeApp.Core/obj/Debug/net10.0/ref/EmployeeApp.Core.dll
